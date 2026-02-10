@@ -1,5 +1,4 @@
-
-import MenuDots from '@/components/MenuDots'
+import MenuDots from '../components/MenuDots'
 
 export default function Home() {
   return (
